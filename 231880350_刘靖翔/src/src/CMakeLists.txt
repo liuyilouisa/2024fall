@@ -1,0 +1,18 @@
+add_executable(srs
+        main.c
+        menu.c
+        utils/audio.c
+        utils/display.c
+        utils/input.c
+        game/game.c
+        game/player.c
+        game/block.c
+)
+target_link_libraries(srs
+        mingw32
+        SDL2main
+        SDL2
+        SDL2_image
+        SDL2_ttf
+        SDL2_mixer
+)

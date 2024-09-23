@@ -1,0 +1,22 @@
+
+u	cpp:S5276\"Yimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long long') to 'int'(ë“ù8úÅ˜ù¡2
+u	cpp:S5276`"Yimplicit conversion loses integer precision: 'size_t' (aka 'unsigned long long') to 'int'(€Æäÿ8ûÅ˜ù¡2
+„	cpp:S3624"âExplicitly define or delete the missing copy constructor and copy assignment operator so that they will not be implicitly provided. Additionally, you may consider defining the move assignment operator and the move constructor.(³¼ı©ıÿÿÿÿ8‡¤Èù¡2
+j	cpp:S4963"IRemove this class' destructor so that the class follows the rule of Zero.(³¼ı©ıÿÿÿÿ8‡¤Èù¡2
+r	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(’ıÌùÿÿÿÿ8†µ·ø¡2
+V	cpp:S5025":Rewrite the code so that you no longer need this "delete".(Û»Ì¦8‡¤Èù¡2
+H	cpp:S5827"'Replace the redundant type with "auto".(ä…Ëöøÿÿÿÿ8†µ·ø¡2
+V	cpp:S5025":Rewrite the code so that you no longer need this "delete".(Û»Ì¦8‰¤Èù¡2
+r	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(ä…Ëöøÿÿÿÿ8‡µ·ø¡2
+H	cpp:S5827 "'Replace the redundant type with "auto".(ä…Ëöøÿÿÿÿ8‡µ·ø¡2
+V	cpp:S5025$":Rewrite the code so that you no longer need this "delete".(Û»Ì¦8Š¤Èù¡2
+r	cpp:S5025 "QReplace the use of "new" with an operation that automatically manages the memory.(ä…Ëöøÿÿÿÿ8µ·ø¡2
+C	cpp:S58275"'Replace the redundant type with "auto".(¶ÛÆ8‹µ·ø¡2
+V	cpp:S5025<":Rewrite the code so that you no longer need this "delete".(Û»Ì¦8¤Èù¡2
+m	cpp:S50255"QReplace the use of "new" with an operation that automatically manages the memory.(¶ÛÆ8·ŸÌù¡2
+D	cpp:S5817B")This function should be declared "const".(É¬¦8¤Èù¡2
+J	cpp:S5817C")This function should be declared "const".(¸ÕÚˆøÿÿÿÿ8‘¤Èù¡2
+E	cpp:S5817D")This function should be declared "const".(†ÀÑ¯8’¤Èù¡2
+E	cpp:S5817E")This function should be declared "const".(è§©¯8“¤Èù¡2
+	cpp:S3230"oDo not use the constructor's initializer list for data member "capacity". Use the in-class initializer instead.(‘ëÎÂúÿÿÿÿ8•µ·ø¡2
+Œ	cpp:S3230"kDo not use the constructor's initializer list for data member "size". Use the in-class initializer instead.(‘ëÎÂúÿÿÿÿ8•µ·ø¡2
