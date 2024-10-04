@@ -1,0 +1,112 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "HW1",
+					"jsonFile" : "directory-HW1-Debug-dcfd9d98eab8a84e36cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "HW1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "2024fall",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "2stack1queue::@73b80a4f98a7ac108441",
+					"jsonFile" : "target-2stack1queue-Debug-511155ca4b772242ebe1.json",
+					"name" : "2stack1queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CircularQueue::@73b80a4f98a7ac108441",
+					"jsonFile" : "target-CircularQueue-Debug-6942ec972ac95f737555.json",
+					"name" : "CircularQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "DynamicArray::@73b80a4f98a7ac108441",
+					"jsonFile" : "target-DynamicArray-Debug-2b5dde9830bd2811ceff.json",
+					"name" : "DynamicArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LinkedList::@73b80a4f98a7ac108441",
+					"jsonFile" : "target-LinkedList-Debug-454eae66b55870a7b27f.json",
+					"name" : "LinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "train::@73b80a4f98a7ac108441",
+					"jsonFile" : "target-train-Debug-4e29528ad952f38b7b2b.json",
+					"name" : "train",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/13584/CLionProjects/2024fall/cmake-build-debug",
+		"source" : "C:/Users/13584/CLionProjects/2024fall"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
